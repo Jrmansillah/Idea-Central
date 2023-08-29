@@ -871,7 +871,7 @@ textarea:focus {
     .reviews,
     .services,
     .vehicles {
-        width: 95%
+        width: 100%
     }
 
     html {
@@ -881,6 +881,12 @@ textarea:focus {
     .heading {
         font-size: 3rem
     }
+    .home{
+            padding: 5rem 0}
+}
+    ..icons {
+      margin-top: 0rem;
+    
 }
 
 @font-face {
